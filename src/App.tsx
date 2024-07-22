@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { css } from '@emotion/react';
 import {containerStyles} from './Styles/app';
 import TaskInput from './Components/taskInput';
 import TaskList from './Components/taskList'
