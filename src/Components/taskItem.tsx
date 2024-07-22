@@ -1,4 +1,3 @@
-// src/components/TaskItem.tsx
 import React from 'react';
 import { css } from '@emotion/react';
 import { itemStyles, completedStyles, buttonStyles } from '../Styles/taskItem.';
